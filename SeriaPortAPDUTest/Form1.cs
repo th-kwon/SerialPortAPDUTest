@@ -11,7 +11,7 @@ using System.IO.Ports;
 using System.Threading;
 
 
-namespace SerialAPDUTest
+namespace SerialPortAPDUTest
 {
     public partial class Form1 : Form
     {

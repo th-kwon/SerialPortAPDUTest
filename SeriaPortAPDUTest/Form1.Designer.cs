@@ -1,4 +1,4 @@
-﻿namespace SerialAPDUTest
+﻿namespace SerialPortAPDUTest
 {
     partial class Form1
     {
